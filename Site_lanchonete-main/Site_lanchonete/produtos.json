@@ -1,0 +1,38 @@
+[
+    {
+        "imagem": "public/frango.png" ,
+        "nome": "frango",
+        "preco": "R$ 15,00",
+        "detalhes": "alimento",
+        "categoria": "almoco",
+        "desconto": "0"
+        
+    },
+    {
+        "imagem": "public/omelete.png",
+        "nome": "omelete",
+        "preco": "R$ 10,00",
+        "detalhes": "alimento",
+        "categoria": "cafe",
+        "desconto": "0"
+        
+    },
+    {
+        "imagem": "public/arroz.png",
+        "nome": "arroz",
+        "preco": "R$ 20,00",
+        "detalhes": "alimento",
+        "categoria": "almoco",
+        "desconto": "0"
+        
+    },
+    {
+        "imagem": "public/salmão.png",
+        "nome": "salmão",
+        "preco": "R$ 30,00",
+        "detalhes": "alimento",
+        "categoria": "almoco",
+        "desconto": "0"
+       
+    }
+]
